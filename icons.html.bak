@@ -87,7 +87,7 @@
 	<div class="typo">
 		<div class="container">
 				<h3 class="tittle">Computing resource</h3>
-					<p class="heading-btm-w3ls" style="font-size:20px"></p>
+					<p class="heading-btm-w3ls" style="font-size:20px">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 					 
 						<h3 class="page-header page-header icon-subheading">国土数据存储服务器</h3>
 				<p>--共5台</p> 

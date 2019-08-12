@@ -94,7 +94,7 @@
 				<div class="col-md-4 col-sm-4 col-xs-4 gal-sec">
 					<div class="gallery-grid1">
 						<a title="毕业季团队合影" href="images/g1.jpg">
-						<img src="images/g1.jpg" alt=" " class="img-responsive" />
+						<img src="images/groupphotoes/img1.jpg" alt=" " class="img-responsive" />
 						<div class="p-mask">
 							<h4>毕业季团队合影</h4>
 							<p>2017</p>
@@ -102,8 +102,8 @@
 						</a>
 					</div>
 					<div class="gallery-grid1">
-						<a title="毕业季团队合影" href="images/g2.jpg">
-						<img src="images/g2.jpg" alt=" " class="img-responsive" />
+						<a title="毕业季团队合影" href="images/groupphotoes/img2.jpg">
+						<img src="images/groupphotoes/img2.jpg" alt=" " class="img-responsive" />
 						<div class="p-mask">
 							<h4>毕业季团队合影</h4>
 							<p>2017</p>
@@ -111,8 +111,8 @@
 						</a>
 					</div>
 					<div class="gallery-grid1">
-						<a title="毕业季团队合影" href="images/g4.jpg">
-						<img src="images/g4.jpg" alt=" " class="img-responsive" />
+						<a title="毕业季团队合影" href="images/groupphotoes/img4.jpg">
+						<img src="images/groupphotoes/img4.jpg" alt=" " class="img-responsive" />
 						<div class="p-mask">
 							<h4>毕业季团队合影</h4>
 							<p>2017</p>
@@ -122,8 +122,8 @@
 				</div>
 				<div class="col-md-4 col-sm-4 col-xs-4 gal-sec">
 					<div class="gallery-grid1">
-						<a title="毕业季团队合影" href="images/g3s.jpg">
-						<img src="images/g3.jpg" alt=" " class="img-responsive" />
+						<a title="毕业季团队合影" href="images/groupphotoes/img3.jpg">
+						<img src="images/groupphotoes/img3.jpg" alt=" " class="img-responsive" />
 						<div class="p-mask">
 							<h4>Studio Appartments</h4>
 							<p>30 Properties</p>
@@ -131,8 +131,8 @@
 						</a>
 					</div>
 					<div class="gallery-grid1">
-						<a title="Attractive home purchase offers." href="images/g1.jpg">
-						<img src="images/g1.jpg" alt=" " class="img-responsive" />
+						<a title="Attractive home purchase offers." href="images/groupphotoes/img1.jpg">
+						<img src="images/groupphotoes/img1.jpg" alt=" " class="img-responsive" />
 						<div class="p-mask">
 							<h4>Swimming Pool</h4>
 							<p>52 Properties</p>
@@ -142,8 +142,8 @@
 				</div>
 				<div class="col-md-4 col-sm-4 col-xs-4 gal-sec">
 					<div class="gallery-grid1">
-						<a title="Attractive home purchase offers." href="images/g4.jpg">
-						<img src="images/g4.jpg" alt=" " class="img-responsive" />
+						<a title="Attractive home purchase offers." href="images/groupphotoes/img4.jpg">
+						<img src="images/groupphotoes/img4.jpg" alt=" " class="img-responsive" />
 						<div class="p-mask">
 							<h4>Bedroom Apartments</h4>
 							<p>85 Properties</p>
@@ -151,8 +151,8 @@
 						</a>
 					</div>
 					<div class="gallery-grid1">
-						<a title="Attractive home purchase offers." href="images/g5.jpg">
-						<img src="images/g5.jpg" alt=" " class="img-responsive" />
+						<a title="Attractive home purchase offers." href="images/groupphotoes/img5.jpg">
+						<img src="images/groupphotoes/img5.jpg" alt=" " class="img-responsive" />
 						<div class="p-mask">
 							<h4>Cozy Houses</h4>
 							<p>68 Properties</p>
@@ -160,8 +160,8 @@
 						</a>
 					</div>
 					<div class="gallery-grid1">
-						<a title="Attractive home purchase offers." href="images/g2.jpg">
-						<img src="images/g2.jpg" alt=" " class="img-responsive" />
+						<a title="Attractive home purchase offers." href="images/groupphotoes/img2.jpg">
+						<img src="images/groupphotoes/img2.jpg" alt=" " class="img-responsive" />
 						<div class="p-mask">
 							<h4>Summer House</h4>
 							<p>48 Properties</p>
