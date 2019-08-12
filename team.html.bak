@@ -52,7 +52,7 @@
 						<nav class="cl-effect-1" id="cl-effect-1">
 							<ul class="nav navbar-nav">
 								<li><a style="font-size:18px;" href="index.html" data-hover="Home">首页</a></li>
-								<li class="active"><a style="font-size:18px;" href="about.html" data-hover="About">团队成员</a></li>
+								<li class="active"><a style="font-size:18px;" href="team.html" data-hover="About">团队成员</a></li>
 								<li class="dropdown menu__item">
 									<a style="font-size:18px;" href="#" class="dropdown-toggle menu__link active" data-toggle="dropdown" data-hover="Pages" role="button" aria-haspopup="true"
 									    aria-expanded="false">数据设备<span class="caret"></span></a>
