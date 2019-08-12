@@ -86,7 +86,7 @@
 		<div class="container">
 			<h3 class="tittle">Our Teachers</h3>
 			<p class="heading-btm-w3ls">指导老师4名，其中博导3名。</p>
-		<!--	<div class="row team-row">
+			<div class="row team-row">
 					<div class="col-md-3 col-sm-6 thumbnail team-w3agile">
 					<img src="images/yao.jpg" class="img-responsive" alt="">
 					<div class="team-info">
@@ -124,7 +124,7 @@
 					</div>
 				</div>				 
 				<div class="clearfix"> </div>
-			</div> -->
+			</div>
 		</div>
 
 
