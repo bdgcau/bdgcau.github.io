@@ -193,8 +193,8 @@
 						<tr>
 							<th style="width:60px">编号</th>
 							<th>数据集名称</th>
-							<th style="width:110px">空间分辨率</th>
-							<th style="width:110px">时间分辨率</th>
+							<th style="width:100px">空间分辨率</th>
+							<th style="width:100px">时间分辨率</th>
 							<th style="width:100px">投影方式</th>
 							<th style="width:60px">类型</th>
 							<th>格式</th>
