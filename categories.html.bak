@@ -89,7 +89,7 @@
 	<div class="gallery" id="gallery">
 		<div class="container">
 			<h3 class="tittle">Group Photos</h3>
-			<p class="heading-btm-w3ls">Suspendisse fringilla pellentesque risus sit amet bibendum.</p>
+			<p class="heading-btm-w3ls"></p>
 			<div class="agile_gallery_grids w3-agile demo">
 				<div class="col-md-4 col-sm-4 col-xs-4 gal-sec">
 					<div class="gallery-grid1">
